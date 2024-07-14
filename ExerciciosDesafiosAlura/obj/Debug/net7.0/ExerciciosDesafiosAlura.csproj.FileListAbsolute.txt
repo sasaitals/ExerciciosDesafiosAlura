@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ExerciciosDesafiosAlura\ExerciciosDesafiosAlura\bin\Debug\net7.0\ExerciciosDesafiosAlura.exe
+C:\Users\User\source\repos\ExerciciosDesafiosAlura\ExerciciosDesafiosAlura\bin\Debug\net7.0\ExerciciosDesafiosAlura.deps.json
+C:\Users\User\source\repos\ExerciciosDesafiosAlura\ExerciciosDesafiosAlura\bin\Debug\net7.0\ExerciciosDesafiosAlura.runtimeconfig.json
+C:\Users\User\source\repos\ExerciciosDesafiosAlura\ExerciciosDesafiosAlura\bin\Debug\net7.0\ExerciciosDesafiosAlura.dll
+C:\Users\User\source\repos\ExerciciosDesafiosAlura\ExerciciosDesafiosAlura\bin\Debug\net7.0\ExerciciosDesafiosAlura.pdb
+C:\Users\User\source\repos\ExerciciosDesafiosAlura\ExerciciosDesafiosAlura\obj\Debug\net7.0\ExerciciosDesafiosAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ExerciciosDesafiosAlura\ExerciciosDesafiosAlura\obj\Debug\net7.0\ExerciciosDesafiosAlura.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExerciciosDesafiosAlura\ExerciciosDesafiosAlura\obj\Debug\net7.0\ExerciciosDesafiosAlura.AssemblyInfo.cs
+C:\Users\User\source\repos\ExerciciosDesafiosAlura\ExerciciosDesafiosAlura\obj\Debug\net7.0\ExerciciosDesafiosAlura.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExerciciosDesafiosAlura\ExerciciosDesafiosAlura\obj\Debug\net7.0\ExerciciosDesafiosAlura.dll
+C:\Users\User\source\repos\ExerciciosDesafiosAlura\ExerciciosDesafiosAlura\obj\Debug\net7.0\refint\ExerciciosDesafiosAlura.dll
+C:\Users\User\source\repos\ExerciciosDesafiosAlura\ExerciciosDesafiosAlura\obj\Debug\net7.0\ExerciciosDesafiosAlura.pdb
+C:\Users\User\source\repos\ExerciciosDesafiosAlura\ExerciciosDesafiosAlura\obj\Debug\net7.0\ExerciciosDesafiosAlura.genruntimeconfig.cache
+C:\Users\User\source\repos\ExerciciosDesafiosAlura\ExerciciosDesafiosAlura\obj\Debug\net7.0\ref\ExerciciosDesafiosAlura.dll
